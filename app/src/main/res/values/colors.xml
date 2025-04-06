@@ -2,4 +2,6 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="yellow">#FFF59D</color> <!-- light yellow -->
+    <color name="gray">#DDDDDD</color>   <!-- placeholder/input bg -->
 </resources>

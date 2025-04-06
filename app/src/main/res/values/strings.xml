@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">pos_shield_transfer</string>
+    <string name="app_name">Shield Transfer</string>
+    <string name="send_bitcoin">Send Bitcoin</string>
+    <string name="shield_transfer">Shield Transfer</string>
+    <string name="fiat_currency">Fiat currency</string>
 </resources>
